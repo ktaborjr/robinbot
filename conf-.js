@@ -34,8 +34,8 @@ c.quandl_token = "";
 
 // Robinhood credentials
 c.robinhood_credentials = {
-    username: '',
-    password: ''
+    username: 'ktaborjr@gmail.com',
+    password: 'Arch4195!'
 };
 
 // List of securities to trade
